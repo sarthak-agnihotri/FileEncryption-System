@@ -1,4 +1,4 @@
-FileEncryptionSystem
+# FileEncryptionSystem
 Overview
 
 FileEncryptionSystem is a Java console application that allows users to securely manage text files with encryption and decryption.
