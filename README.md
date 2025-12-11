@@ -36,8 +36,42 @@ Input validation for usernames, passwords, and file names
 
 Two-factor authentication (4-digit OTP)
 
+## Prerequisites
+
+Java JDK 8 or higher
+
+Maven (optional, for building JAR with pom.xml)
+
 Prerequisites
 
 Java JDK 8 or higher
 
 Maven (optional, for building JAR with pom.xml)
+
+## **Getting Started**
+**Clone the Repository**
+git clone https://github.com/sarthak-agnihotri/FileEncryption-System.git
+cd FileEncryption-System
+
+**Build the Project**
+
+If using Maven:
+
+`mvn clean package`
+
+
+This will generate the JAR file:
+
+`target/FileEncryptionSystem-1.0-SNAPSHOT.jar`
+
+
+If you don’t use Maven, you can compile manually:
+
+`javac FileEncryptionSystem.java`
+
+Run the Program
+Using the JAR file
+`java -jar FileEncryptionSystem-1.0-SNAPSHOT.jar`
+
+Using compiled class
+`java FileEncryptionSystem`
