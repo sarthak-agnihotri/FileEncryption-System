@@ -103,3 +103,11 @@ Display file metadata
 Share file securely to another file
 
 Logout or exit program
+
+## Encryption Algorithm
+
+Uses XOR encryption with a user-provided key
+
+Each character of the content is XORed with the corresponding character in the key (repeating if key is shorter than content)
+
+Simple and lightweight for demonstration purposes
