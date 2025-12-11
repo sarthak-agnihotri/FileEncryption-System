@@ -8,7 +8,7 @@ It uses XOR-based encryption for simplicity and ensures that file content is onl
 
 ## Features
 
-**User Management**
+## **User Management**
 
 Register new users with a username and password
 
@@ -16,7 +16,7 @@ Login with username and password
 
 2FA OTP verification after login
 
-**File Operations**
+## **File Operations**
 
 Write encrypted content to a file
 
@@ -28,7 +28,7 @@ Display file metadata (size, last modified date)
 
 Share file content securely to another file
 
-**Security**
+## **Security**
 
 XOR-based encryption for file contents
 
