@@ -5,9 +5,10 @@ FileEncryptionSystem is a Java console application that allows users to securely
 The system includes user registration, login with password, two-factor authentication (OTP), and file operations such as writing, reading, sharing, and viewing metadata.
 
 It uses XOR-based encryption for simplicity and ensures that file content is only accessible to authenticated users.
-Features
 
-User Management
+## Features
+
+**User Management**
 
 Register new users with a username and password
 
@@ -15,7 +16,7 @@ Login with username and password
 
 2FA OTP verification after login
 
-File Operations
+**File Operations**
 
 Write encrypted content to a file
 
@@ -27,7 +28,7 @@ Display file metadata (size, last modified date)
 
 Share file content securely to another file
 
-Security
+**Security**
 
 XOR-based encryption for file contents
 
