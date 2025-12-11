@@ -75,3 +75,31 @@ Using the JAR file
 
 Using compiled class
 `java FileEncryptionSystem`
+
+## Usage
+
+**Register a new user**
+
+Enter a username (max 20 characters)
+
+Enter a password (max 20 characters)
+
+### **Login**
+
+Enter your registered username and password
+
+Complete OTP verification
+
+### **File Operations**
+
+Write content to a file (encrypted)
+
+Read and decrypt file content
+
+Check file accessibility
+
+Display file metadata
+
+Share file securely to another file
+
+Logout or exit program
