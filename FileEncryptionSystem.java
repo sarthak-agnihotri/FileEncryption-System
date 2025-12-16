@@ -190,7 +190,7 @@ public class FileEncryptionSystem {
                                 authenticated = false;
                                 continue;
                             }
-                            System.out.print("Enter an encryption: ");
+                            System.out.print("Enter an encryption key: ");
                             key = scanner.next();
                         }
                         break;
