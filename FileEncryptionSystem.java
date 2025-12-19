@@ -235,7 +235,7 @@ public class FileEncryptionSystem {
                         System.out.println("Logged out successfully.");
                         break;
                     case 7:
-                        System.out.println("Exiting program...");
+                        System.out.println("Exiting the program...");
                         System.exit(0);
                     default:
                         System.err.println("Invalid choice! Please try again.");
