@@ -238,7 +238,7 @@ public class FileEncryptionSystem {
                         System.out.println("Exiting the program...");
                         System.exit(0);
                     default:
-                        System.err.println("Invalid choice! Please.");
+                        System.err.println("Invalid choice! Please try again.");
                 }
             }
         } while (true);
